@@ -12,3 +12,11 @@ It is beneficial to the children and for the experienced programmer because it a
 The turtle is built in library so we don't need to install separately. We just need to import the library into our Python environment.
 
 The Python turtle library consists of all important methods and functions that we will need to create our designs and images
+
+
+# Output
+
+
+
+https://user-images.githubusercontent.com/84026974/174131727-db29b3c5-07a8-4061-b420-50c274ffacb9.mp4
+
